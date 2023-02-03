@@ -1,0 +1,25 @@
+{
+  "fisrt_name": "Sergi",
+  "last_name": "Alsina",
+  "user_name": "SergiAl",
+  "email": "alolocosevivemejor@gmail.com",
+  "password": "qwerty1234",
+  "role": "user",
+  "favorites": [
+    { "_id": "65465fetdr4hdg65b" },
+    { "_id": "65465fetdr4hdg65c" },
+    { "_id": "65465fetdr4hdg65d" }
+  ],
+  "address": "c/Bla, Barcelona",
+  "badges": ["gold", "super-publisher", "fast-publisher"],
+  "notifications_list": [
+    {
+      "_id": "65t4hg84reg4edr484"
+    }
+  ],
+  "groups": [
+    {
+      "_id": "654h4fdg54hdf654"
+    }
+  ]
+}

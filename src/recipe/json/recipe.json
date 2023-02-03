@@ -1,0 +1,36 @@
+{
+  "name": "Chocolate pie",
+  "description": "Delicious chocolate pie with high sugar dose. First: cut onions in tiny slices. Second: Mix chocolate and onion. Third: let your pet taste it. Fourth: enjoy it.",
+  "author": "123sdfsdf234dfas4",
+  "avg_rating": 8,
+  "img": "assets/images/chocolate-pie.png",
+  "is_public": true,
+  "ingredients": [
+    {
+      "_id": "2342342ftgsdg4234",
+      "qty": 300
+    },
+    {
+      "_id": "123vsdf342fftgsdg4sdf",
+      "qty": 100
+    }
+  ],
+  "meal_type": "snack",
+  "country": "Chile",
+  "cooking_time": 60,
+  "difficulty": "easy",
+  "views": 9741,
+  "food_type": "desert",
+  "comments": [
+    {
+      "title": "Esperaba más",
+      "comment": "Nisi officia fugiat id nulla laboris ex. Sit laboris culpa occaecat occaecat aliquip dolor non excepteur reprehenderit.",
+      "author": "63d3918e7764924b1a3a9abe"
+    },
+    {
+      "title": "Buenisimo",
+      "comment": "Nisi officia fugiat id nulla laboris ex. Sit laboris culpa occaecat occaecat aliquip dolor non excepteur reprehenderit.",
+      "author": "63d3918e7764924b1a3a9abe"
+    }
+  ]
+}
